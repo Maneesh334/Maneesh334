@@ -8,16 +8,16 @@ anordinaryusername@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
+Location: Stony Brook, NY
+Languages: Go, Java, Python, C/C++, SQL, JavaScript, HTML/CSS, R, Kotlin, Rust, Ruby, C#
+Frameworks: React, Node.js, Flask, Micronaut, Springboot, Gin
+Libraries: jUnit, SciPy, OpenCV, scikit-learn, pandas, NumPy, Matplotlib, BeautifulSoup, pytorch, sklearn, selenium
+Developer Tools: Git, Docker, Google Cloud Platform, AWS, VS Code, R Studio, Jupyter, Colab, VSCode
+Interests: Machine Learning, Artificial Intelligence, Computer Vision, Data Science, Data Analysis
+Hobbies: Reading, Music
 Commits: 968
 Stars: 14
-Discord: RandomPotato#1377
+Discord: mdx#1444
 ```
 
 
