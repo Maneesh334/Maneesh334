@@ -3,7 +3,7 @@
 <img align="right" src="https://wallpapercave.com/wp/wp4253036.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+Maneesh334@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
