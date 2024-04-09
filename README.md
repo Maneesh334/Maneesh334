@@ -25,4 +25,4 @@ Discord: mdx#1444
 ```
 
 
-<img align="left" src="https://wallpapercave.com/wp/wp5025164.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://wallpapercave.com/wp/wp4253031.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
