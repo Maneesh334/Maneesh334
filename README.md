@@ -1,4 +1,6 @@
-
+```zsh
+> neofetch
+```
 
 <img align="left" src="https://wallpapercave.com/wp/wp4253036.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 ```csharp
