@@ -5,10 +5,7 @@
 ```csharp
 Maneesh334@github
 -------------------------
-OS: Linux
-Pronouns: He/Him
-Location: Stony Brook, NY
-Languages: Go, Java, Python, C/C++, SQL, JavaScript,HTML/CSS, R, Kotlin, Rust, Ruby, C#
+Languages: Go, Java, Python, JavaScript, Kotlin
 Frameworks: React, Node.js, Flask, Micronaut, Springboot, Gin
 Libraries: jUnit, SciPy, OpenCV, scikit-learn, pandas, NumPy, Matplotlib, BeautifulSoup, pytorch, sklearn, selenium
 Developer Tools: Git, Docker, Google Cloud Platform, AWS, VS Code, R Studio, Jupyter, Colab, VSCode
