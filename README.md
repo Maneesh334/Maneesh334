@@ -1,6 +1,5 @@
 
 
-<img align="right" src="https://wallpapercave.com/wp/wp5483225.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="265"/> <img align="centre" src="https://wallpapercave.com/wp/wp4253055.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width = "265"/> <img align="left" src="https://wallpapercave.com/wp/wp4253036.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width = "265" /> 
 
 ```csharp
 Maneesh334@github
@@ -16,5 +15,4 @@ Discord: mdx#1444
 
 
 
-<img align="centre" src="https://wallpapercave.com/wp/wp5025164.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width = "900"/> 
 
